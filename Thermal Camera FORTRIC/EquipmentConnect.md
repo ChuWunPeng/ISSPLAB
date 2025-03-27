@@ -28,7 +28,7 @@
 - 網路線（RJ-45）x1  
 - 熱像儀 x1
 
-| <img src="電源線24v.jpg" height="150"> | <img src="網路線.jpg" height="200"> | <img src="熱像儀.jpg" height="200"> | 
+| <img src="img/電源線24v.jpg" height="150"> | <img src="img/網路線.jpg" height="200"> | <img src="img/熱像儀.jpg" height="200"> | 
 |:---------------------------:|:----------------------------:|:------------------:|
 | **Fig.1** 電源線 | **Fig.2** 網路線 | **Fig.3** 熱像儀 |
 
@@ -40,7 +40,7 @@
 2. 將電源線插入熱像儀的另一個接口，如 [Fig.4](#fig4-熱像儀接口) 的標示 2。
 
 <p align="center">
-  <img src="熱像儀接口.png" height="150"><br>
+  <img src="img/熱像儀接口.png" height="150"><br>
   <b><a name="fig4-熱像儀接口">Fig.4 熱像儀接口</a></b>
 </p>
 
@@ -52,14 +52,14 @@
 <summary><strong>Step 1:</strong> 開啟乙太網路內容</summary>
 
 右鍵點選乙太網路 → 點選「內容」  
-<img src="連接1.png">
+<img src="img/連接1.png">
 </details>
 
 <details>
 <summary><strong>Step 2:</strong> 進入 IPv4 設定</summary>
 
 選擇「網際通訊協定第 4 版（TCP/IPv4）」 → 點選「內容」  
-<img src="連接2.png">
+<img src="img/連接2.png">
 </details>
 
 <details>
@@ -71,7 +71,7 @@
 
 > ⚠️ **注意**：IP 不可與 [熱像儀固定 IP](#📌-廠商基本設定須知) `192.168.1.100` 相同。
 
-<img src="連接3.png">
+<img src="img/連接3.png">
 </details>
 
 <details>
@@ -79,7 +79,7 @@
 
 在瀏覽器輸入 `192.168.1.100`，若連接成功會顯示以下畫面  
 （登入帳密見 [廠商基本設定須知](#📌-廠商基本設定須知)）  
-<img src="熱像儀網站畫面.png">
+<img src="img/熱像儀網站畫面.png">
 </details>
 
 ---
