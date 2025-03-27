@@ -1,6 +1,3 @@
----
-title: 實驗室熱像儀 FOTRIC 設備連接、範例程式及函式庫介紹
----
 
 # 實驗室熱像儀 FOTRIC 設備連接、範例程式及函式庫介紹
 ###### 🏷 Tags: `Lab Equipment`
