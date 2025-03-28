@@ -104,20 +104,20 @@
 ### 🛠 專案建置步驟
 
 1. 建立新方案，參考廠商提供的 `DLDemo` 專案。
-2. 將以下 `.dll` 複製至新專案的 `bin\Debug`：
 
+<img src="img/加入參考.png">
+
+2. 將以下 `.dll` 複製至新專案的 `bin\Debug`：
 ```text
-...\csharp\OWB.DLDemoin\Debug\OWB.SDK.dll
+...\csharp\OWB.DLDemo\bin\Debug\OWB.SDK.dll
 ```
 
 3. 加入以下 `.cs` 原始碼檔案：
-
 - `OWBGlobal.cs`
 - `OWBCamera.cs`
 - `OWBTypes.cs`
-
 這些函式可透過 `OWBGlobal.Camera` 與 `OWBGlobal.Types` 使用。
-
+<img src="img/需加入cs檔.png">
 ---
 
 ### 🔧 DLL 編譯為 x64
@@ -127,7 +127,7 @@
    - 右鍵「屬性」→ 應用程式 → 輸出類型設為「類別庫」
 3. 組態管理員 → 平台改為 `x64`
 4. 重建專案後即可於輸出路徑取得新 DLL
-
+<img src="img/win32tox64.png">
 ---
 
 ## III. 📁 函式庫介紹
