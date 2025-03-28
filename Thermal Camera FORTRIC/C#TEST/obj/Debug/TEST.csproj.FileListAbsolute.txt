@@ -1,0 +1,61 @@
+C:\Users\user\Desktop\熱影像原檔\TEST\obj\Debug\TEST.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\熱影像原檔\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\user\Desktop\熱影像原檔\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\user\Desktop\熱影像原檔\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\TEST.exe.config
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\TEST.exe
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\TEST.pdb
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\OWB.SDK.dll
+C:\Users\user\Desktop\熱影像原檔\TEST\obj\Debug\TEST.csproj.Up2Date
+C:\Users\user\Desktop\熱影像原檔\TEST\obj\Debug\TEST.exe
+C:\Users\user\Desktop\熱影像原檔\TEST\obj\Debug\TEST.pdb
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\OWB.Video.dll
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\Dynamitey.dll
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\MaterialDesignColors.pdb
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\ExtraTools.dll
+C:\Users\user\Desktop\熱影像原檔\TEST\bin\Debug\ShowMeTheXAML.dll
+C:\Users\user\Desktop\熱影像原檔\TEST\obj\Debug\TEST.SettingForm.resources
+C:\Users\user\Desktop\熱影像原檔\TEST\obj\Debug\TEST.LoginForm.resources
+C:\Users\user\Desktop\熱影像原檔\TEST\obj\Debug\TEST.MainForm.resources
+C:\Users\user\Desktop\熱影像原檔\TEST\obj\Debug\TEST.UserForm.resources
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\TEST.exe.config
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\TEST.exe
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\TEST.pdb
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\Dynamitey.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\ExtraTools.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\MaterialDesignColors.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\ShowMeTheXAML.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\System.Drawing.Common.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\MaterialDesignColors.pdb
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\bin\Debug\OWB.SDK.pdb
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\obj\Debug\TEST.csproj.AssemblyReference.cache
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\obj\Debug\TEST.MainForm.resources
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\obj\Debug\TEST.LoginForm.resources
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\obj\Debug\TEST.SettingForm.resources
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\obj\Debug\TEST.UserForm.resources
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\obj\Debug\TEST.csproj.Up2Date
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\obj\Debug\TEST.exe
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#TEST\obj\Debug\TEST.pdb

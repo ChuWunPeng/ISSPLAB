@@ -1,0 +1,649 @@
+[
+  {
+    "name": "1.1:获取设备信息",
+    "method": "GET",
+    "url": "/admin/info",
+    "data": ""
+  },
+  {
+    "name": "1.2:获取设备时间",
+    "method": "GET",
+    "url": "/admin/clock",
+    "data": ""
+  },
+  {
+    "name": "1.3:设置设备时间",
+    "method": "PUT",
+    "url": "/admin/clock",
+    "data": "\"20181212121200\""
+  },
+  {
+    "name": "1.4:获取NTP服务器列表",
+    "method": "GET",
+    "url": "/admin/ntp",
+    "data": ""
+  },
+  {
+    "name": "1.5:设置NTP服务器列表",
+    "method": "PUT",
+    "url": "/admin/ntp",
+    "data": [ "pool.ntp.org", "time.nist.gov" ]
+  },
+  {
+    "name": "1.6.1:获取设备网络信息01",
+    "method": "GET",
+    "url": "/admin/ifaces",
+    "data": ""
+  },
+  {
+    "name": "1.6.2:获取设备网络信息02",
+    "method": "GET",
+    "url": "/admin/ifaces/eth0",
+    "data": ""
+  },
+  {
+    "name": "1.7:设置设备网络信息",
+    "method": "PUT",
+    "url": "/admin/ifaces/eth0",
+    "data": {
+      "dhcp": false,
+      "dns": [ "192.168.1.1" ],
+      "gateway": [ "192.168.1.1" ],
+      "ip": "192.168.1.115",
+      "netmask": "255.255.255.0"
+    }
+  },
+  {
+    "name": "1.8:获取用户列表",
+    "method": "GET",
+    "url": "/admin/users",
+    "data": ""
+  },
+  {
+    "name": "1.9:添加和修改用户",
+    "method": "PUT",
+    "url": "/user/abc",
+    "data": {
+      "pw": "123456",
+      "group": "root"
+    }
+  },
+  {
+    "name": "1.10:删除用户",
+    "method": "DELETE",
+    "url": "/user/abc",
+    "data": ""
+  },
+  {
+    "name": "1.12:设备重启",
+    "method": "POST",
+    "url": "/admin/reboot",
+    "data": ""
+  },
+  {
+    "name": "1.13.1:恢复出厂配置01",
+    "method": "POST",
+    "url": "/admin/reset?factory",
+    "data": ""
+  },
+  {
+    "name": "1.13.2:恢复出厂配置02",
+    "method": "POST",
+    "url": "/admin/reset?restore",
+    "data": ""
+  },
+  {
+    "name": "2.1:获取校准模式列表",
+    "method": "GET",
+    "url": "/sensor/cali-modes",
+    "data": ""
+  },
+  {
+    "name": "2.2:获取当前校准模式",
+    "method": "GET",
+    "url": "/sensor/cali-mode",
+    "data": ""
+  },
+  {
+    "name": "2.3:设置当前校准模式",
+    "method": "PUT",
+    "url": "/sensor/cali-mode",
+    "data": "\"manual\""
+  },
+  {
+    "name": "2.4:执行一次校准",
+    "method": "POST",
+    "url": "/sensor/cali",
+    "data": ""
+  },
+  {
+    "name": "2.5:获取传感器图像镜像模式",
+    "method": "GET",
+    "url": "/sensor/mirror",
+    "data": ""
+  },
+  {
+    "name": "2.6:设置传感器图像镜像模式",
+    "method": "PUT",
+    "url": "/sensor/mirror",
+    "data": {
+      "h": 0,
+      "v": 0
+    }
+  },
+  {
+    "name": "2.7:获取传感器图像尺寸",
+    "method": "GET",
+    "url": "/sensor/dimension",
+    "data": ""
+  },
+  {
+    "name": "2.8:获取温度量程列表",
+    "method": "GET",
+    "url": "/sensor/t-range",
+    "data": ""
+  },
+  {
+    "name": "2.9:获取镜头列表",
+    "method": "GET",
+    "url": "/sensor/lens",
+    "data": ""
+  },
+  {
+    "name": "2.10.1:获取出厂温度对照表属性列表01",
+    "method": "GET",
+    "url": "/sensor/luts",
+    "data": ""
+  },
+  {
+    "name": "2.10.2:获取出厂温度对照表属性列表02",
+    "method": "GET",
+    "url": "/sensor/luts/1",
+    "data": ""
+  },
+  {
+    "name": "2.11:选择出厂温度对照表",
+    "method": "PUT",
+    "url": "/sensor/jconfig",
+    "data": {
+      "selected-lens": 1,
+      "selected-t-range": 2
+    }
+  },
+  {
+    "name": "2.12:获取当前出厂温度对照表索引",
+    "method": "GET",
+    "url": "/sensor/lut",
+    "data": ""
+  },
+  {
+    "name": "2.13:获取出厂温度对照表",
+    "method": "GET",
+    "url": "/sensor/luts/1?list",
+    "data": ""
+  },
+  {
+    "name": "4.1:获取图像处理参数",
+    "method": "GET",
+    "url": "/isp/jconfig",
+    "data": ""
+  },
+  {
+    "name": "4.2:设置图像处理参数",
+    "method": "PUT",
+    "url": "/isp/jconfig",
+    "data": {
+      "black-level": 0,
+      "contrast": 1,
+      "method": "tpe",
+      "roi": "full"
+    }
+  },
+  {
+    "name": "4.3:获取自动增益模式",
+    "method": "GET",
+    "url": "/isp/agc-mode",
+    "data": ""
+  },
+  {
+    "name": "4.4:设置自动增益模式",
+    "method": "PUT",
+    "url": "/isp/agc-mode",
+    "data": "\"continuous\""
+  },
+  {
+    "name": "4.7.1:获取图像上点的温度01",
+    "method": "GET",
+    "url": "/isp/t",
+    "data": ""
+  },
+  {
+    "name": "4.7.2:获取图像上点的温度02",
+    "method": "GET",
+    "url": "/isp/t?x=10&y=20",
+    "data": ""
+  },
+  {
+    "name": "5.1:获取全局测温参数",
+    "method": "GET",
+    "url": "/isp/instrument/jconfig",
+    "data": ""
+  },
+  {
+    "name": "5.2:设置全局测温参数",
+    "method": "PUT",
+    "url": "/isp/instrument/jconfig",
+    "data": {
+      "ambient-t": 20,
+      "distance": 1,
+      "emissivity": 0.97,
+      "lens-t": 20,
+      "lens-transmissivity": 1,
+      "offset": 0,
+      "reflect-t": 20,
+      "rh": 0.5
+    }
+  },
+  {
+    "name": "5.3.1:获取测温对象列表-点",
+    "method": "GET",
+    "url": "/isp/instrument/objects/points",
+    "data": ""
+  },
+  {
+    "name": "5.3.2:获取测温对象列表-区域",
+    "method": "GET",
+    "url": "/isp/instrument/objects/regions",
+    "data": ""
+  },
+  {
+    "name": "5.3.3:获取测温对象列表-线",
+    "method": "GET",
+    "url": "/isp/instrument/objects/lines",
+    "data": ""
+  },
+  {
+    "name": "5.4.1:获取测温对象参数-点P1",
+    "method": "GET",
+    "url": "/isp/instrument/objects/points/P1",
+    "data": ""
+  },
+  {
+    "name": "5.4.2:获取测温对象参数-区域R1",
+    "method": "GET",
+    "url": "/isp/instrument/objects/regions/R1",
+    "data": ""
+  },
+  {
+    "name": "5.4.3:获取测温对象参数-线L1",
+    "method": "GET",
+    "url": "/isp/instrument/objects/lines/L1",
+    "data": ""
+  },
+  {
+    "name": "5.5.1:创建或修改测温点P1",
+    "method": "PUT",
+    "url": "/isp/instrument/objects/points/P1",
+    "data": {
+      "alarm-t": 50,
+      "api-visible": true,
+      "distance": 1,
+      "emissivity": 0.97,
+      "label": "P1",
+      "mb-slot": 0,
+      "offset": 0,
+      "osd-visible": true,
+      "pos": {
+        "x": 166,
+        "y": 134
+      },
+      "reflect-t": 20
+    }
+  },
+  {
+    "name": "5.5.2:创建或修改测温区域R1",
+    "method": "PUT",
+    "url": "/isp/instrument/objects/regions/R1",
+    "data": {
+      "alarm-t": 100,
+      "api-visible": true,
+      "distance": 1,
+      "emissivity": 1,
+      "label": "R1",
+      "layer": 0,
+      "mb-slot": 0,
+      "offset": 0,
+      "osd-visible": true,
+      "polygon": [
+        {
+          "x": 39,
+          "y": 103
+        },
+        {
+          "x": 39,
+          "y": 175
+        },
+        {
+          "x": 105,
+          "y": 175
+        },
+        {
+          "x": 93,
+          "y": 109
+        },
+        {
+          "x": 93,
+          "y": 109
+        }
+      ],
+      "reflect-t": 20
+    }
+  },
+  {
+    "name": "5.5.3:创建或修改测温线L1",
+    "method": "PUT",
+    "url": "/isp/instrument/objects/lines/L1",
+    "data": {
+      "alarm-t": 100,
+      "api-visible": true,
+      "distance": 1,
+      "emissivity": 1,
+      "label": "L1",
+      "layer": 0,
+      "mb-slot": 0,
+      "offset": 0,
+      "osd-visible": true,
+      "polyline": [
+        {
+          "x": 39,
+          "y": 103
+        },
+        {
+          "x": 39,
+          "y": 175
+        },
+        {
+          "x": 105,
+          "y": 175
+        },
+        {
+          "x": 93,
+          "y": 109
+        }
+      ],
+      "reflect-t": 20
+    }
+  },
+  {
+    "name": "5.6.1:删除测温点",
+    "method": "DELETE",
+    "url": "/isp/instrument/objects/points",
+    "data": ""
+  },
+  {
+    "name": "5.6.2:删除测温区域",
+    "method": "DELETE",
+    "url": "/isp/instrument/objects/regions",
+    "data": ""
+  },
+  {
+    "name": "5.6.3:删除测温线",
+    "method": "DELETE",
+    "url": "/isp/instrument/objects/lines",
+    "data": ""
+  },
+  {
+    "name": "5.7.1:删除测温点P1",
+    "method": "DELETE",
+    "url": "/isp/instrument/objects/points/P1",
+    "data": ""
+  },
+  {
+    "name": "5.7.2:删除测温区域R1",
+    "method": "DELETE",
+    "url": "/isp/instrument/objects/regions/R1",
+    "data": ""
+  },
+  {
+    "name": "5.7.3:删除测温线L1",
+    "method": "DELETE",
+    "url": "/isp/instrument/objects/lines/L1",
+    "data": ""
+  },
+  {
+    "name": "5.8.1:获取测温对象数据P1",
+    "method": "GET",
+    "url": "/isp/instrument/objects/points/P1?value",
+    "data": ""
+  },
+  {
+    "name": "5.8.2:获取测温对象数据R1",
+    "method": "GET",
+    "url": "/isp/instrument/objects/regions/R1?value",
+    "data": ""
+  },
+  {
+    "name": "5.8.3:获取测温对象数据L1",
+    "method": "GET",
+    "url": "/isp/instrument/objects/lines/L1?value",
+    "data": ""
+  },
+  {
+    "name": "5.9.1:获取最大测温对象个数-点",
+    "method": "GET",
+    "url": "/isp/instrument/max-point-num",
+    "data": ""
+  },
+  {
+    "name": "5.9.2:获取最大测温对象个数-区域",
+    "method": "GET",
+    "url": "/isp/instrument/max-region-num",
+    "data": ""
+  },
+  {
+    "name": "5.9.3:获取最大测温对象个数-线",
+    "method": "GET",
+    "url": "/isp/instrument/max-line-num",
+    "data": ""
+  },
+  {
+    "name": "5.10:获取全局最高最低温",
+    "method": "GET",
+    "url": "/isp/instrument/objects/global?value",
+    "data": ""
+  },
+  {
+    "name": "5.11:获取采样率",
+    "method": "GET",
+    "url": "/isp/instrument/sample-rate",
+    "data": ""
+  },
+  {
+    "name": "5.12:设置采样率",
+    "method": "PUT",
+    "url": "/isp/instrument/sample-rate",
+    "data": 2
+  },
+  {
+    "name": "6.1:获取设备预定义调色板列表",
+    "method": "GET",
+    "url": "/isp/t-ray/presets",
+    "data": ""
+  },
+  {
+    "name": "6.2:设置当前调色板",
+    "method": "PUT",
+    "url": "/isp/t-ray/plt",
+    "data": {
+      "inverse": false,
+      "name": "grey"
+    }
+  },
+  {
+    "name": "6.3:获取当前调色板",
+    "method": "GET",
+    "url": "/isp/t-ray/plt",
+    "data": ""
+  },
+  {
+    "name": "7.1:执行自动对焦",
+    "method": "POST",
+    "url": "/isp/af",
+    "data": {
+      "X": 10,
+      "Y": 10
+    }
+  },
+  {
+    "name": "7.2:获取自动对焦结果",
+    "method": "GET",
+    "url": "/isp/af/result",
+    "data": ""
+  },
+  {
+    "name": "8.1:获取OSD列表",
+    "method": "GET",
+    "url": "/osd/layout",
+    "data": ""
+  },
+  {
+    "name": "8.2:获取OSD对象参数",
+    "method": "GET",
+    "url": "/osd/layout/title",
+    "data": ""
+  },
+  {
+    "name": "8.3:设置时间显示",
+    "method": "PUT",
+    "url": "/osd/layout/time",
+    "data": {
+      "show": true,
+      "pos": {
+        "x": 5,
+        "y": 2
+      },
+      "align": "topright"
+    }
+  },
+  {
+    "name": "8.4:获取当前显示时区",
+    "method": "GET",
+    "url": "/osd/tz",
+    "data": ""
+  },
+  {
+    "name": "8.5:设置当前显示时区",
+    "method": "PUT",
+    "url": "/osd/tz",
+    "data": "CST-8"
+  },
+  {
+    "name": "8.6:设置标题显示",
+    "method": "PUT",
+    "url": "/osd/layout/title",
+    "data": {
+      "show": true,
+      "pos": {
+        "x": 5,
+        "y": 2
+      },
+      "align": "topright"
+    }
+  },
+  {
+    "name": "9.1.1:执行手动对焦-近焦",
+    "method": "POST",
+    "url": "/peri/focus?op=near&step=100",
+    "data": ""
+  },
+  {
+    "name": "9.1.2:执行手动对焦-远焦",
+    "method": "POST",
+    "url": "/peri/focus?op=far&step=100",
+    "data": ""
+  },
+  {
+    "name": "9.2:获取串口参数",
+    "method": "GET",
+    "url": "/peri/serial-port",
+    "data": ""
+  },
+  {
+    "name": "9.3:获取串口支持速率表",
+    "method": "GET",
+    "url": "/peri/serial-port/baudrates",
+    "data": ""
+  },
+  {
+    "name": "9.4:获取支持停止位表",
+    "method": "GET",
+    "url": "/peri/serial-port/stopbits",
+    "data": ""
+  },
+  {
+    "name": "9.5:获取支持校验位表",
+    "method": "GET",
+    "url": "/peri/serial-port/parities",
+    "data": ""
+  },
+  {
+    "name": "9.6:设置串口参数",
+    "method": "PUT",
+    "url": "/peri/serial-port",
+    "data": {
+      "baudrate": 9600,
+      "command-gap": 0,
+      "csize": 8,
+      "modbus-address": 1,
+      "modbus-slave": false,
+      "parity": "none",
+      "stopbit": "one"
+    }
+  },
+  {
+    "name": "9.7:控制云台移动",
+    "method": "POST",
+    "url": "/peri/ptz/move?id=1&vx=1&vy=1",
+    "data": ""
+  },
+  {
+    "name": "9.8:设定云台预置位",
+    "method": "POST",
+    "url": "/peri/ptz/set?id=1&data=230",
+    "data": ""
+  },
+  {
+    "name": "9.9:调用云台预置位",
+    "method": "POST",
+    "url": "/peri/ptz/goto?id=1&data=230",
+    "data": ""
+  },
+  {
+    "name": "9.10:清除云台预置位",
+    "method": "POST",
+    "url": "/peri/ptz/clear?id=1&data=230",
+    "data": ""
+  },
+  {
+    "name": "9.11:云台停止",
+    "method": "POST",
+    "url": "/peri/ptz/stop?id=1",
+    "data": ""
+  },
+  {
+    "name": "9.12:设置MODBUS参数",
+    "method": "PUT",
+    "url": "/peri/modbus",
+    "data": {
+      "command-gap": 0,
+      "enabled": true,
+      "modbus-address": 1
+    }
+  },
+  {
+    "name": "9.13:获取MODBUS参数",
+    "method": "GET",
+    "url": "/peri/modbus",
+    "data": ""
+  }
+]

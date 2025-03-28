@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#Manufacturer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B63CD0-474A-4122-80CF-855184EE492F}|csharp\\OWB.DLDemo\\OWB.DLDemo.csproj|c:\\users\\chuwu\\desktop\\issplab\\thermal camera fortric\\c#manufacturer\\csharp\\owb.dldemo\\owbmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1B63CD0-474A-4122-80CF-855184EE492F}|csharp\\OWB.DLDemo\\OWB.DLDemo.csproj|solutionrelative:csharp\\owb.dldemo\\owbmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B63CD0-474A-4122-80CF-855184EE492F}|csharp\\OWB.DLDemo\\OWB.DLDemo.csproj|c:\\users\\chuwu\\desktop\\issplab\\thermal camera fortric\\c#manufacturer\\csharp\\owb.dldemo\\owbmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B63CD0-474A-4122-80CF-855184EE492F}|csharp\\OWB.DLDemo\\OWB.DLDemo.csproj|solutionrelative:csharp\\owb.dldemo\\owbmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OWBMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#Manufacturer\\csharp\\OWB.DLDemo\\OWBMainForm.cs",
+              "RelativeDocumentMoniker": "csharp\\OWB.DLDemo\\OWBMainForm.cs",
+              "ToolTip": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#Manufacturer\\csharp\\OWB.DLDemo\\OWBMainForm.cs",
+              "RelativeToolTip": "csharp\\OWB.DLDemo\\OWBMainForm.cs",
+              "ViewState": "AgIAAIUCAAAAAAAAAAAcwJMCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:30:53.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OWBMainForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#Manufacturer\\csharp\\OWB.DLDemo\\OWBMainForm.cs",
+              "RelativeDocumentMoniker": "csharp\\OWB.DLDemo\\OWBMainForm.cs",
+              "ToolTip": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#Manufacturer\\csharp\\OWB.DLDemo\\OWBMainForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "csharp\\OWB.DLDemo\\OWBMainForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:29:56.16Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

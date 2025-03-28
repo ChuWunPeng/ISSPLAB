@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F3E9A9D6-4F5A-4D9F-90F9-3E2D46F21B1C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OWB.TADemo</RootNamespace>
+    <AssemblyName>TADemo</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ta.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\TADemo.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\TADemo.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="OWBAboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OWBAboutForm.designer.cs">
+      <DependentUpon>OWBAboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OWBCamera.cs" />
+    <Compile Include="OWBConnectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OWBConnectForm.Designer.cs">
+      <DependentUpon>OWBConnectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OWBGlobal.cs" />
+    <Compile Include="OWBISPAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OWBISPAddForm.Designer.cs">
+      <DependentUpon>OWBISPAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OWBISPForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OWBISPForm.Designer.cs">
+      <DependentUpon>OWBISPForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OWBMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OWBMainForm.Designer.cs">
+      <DependentUpon>OWBMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OWBSerialSetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OWBSerialSetForm.Designer.cs">
+      <DependentUpon>OWBSerialSetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OWBTAPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="OWBTAPictureBox.Designer.cs">
+      <DependentUpon>OWBTAPictureBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="OWBAboutForm.resx">
+      <DependentUpon>OWBAboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OWBConnectForm.resx">
+      <DependentUpon>OWBConnectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OWBISPAddForm.resx">
+      <DependentUpon>OWBISPAddForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OWBISPForm.resx">
+      <DependentUpon>OWBISPForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OWBMainForm.resx">
+      <DependentUpon>OWBMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OWBSerialSetForm.resx">
+      <DependentUpon>OWBSerialSetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OWBTAPictureBox.resx">
+      <DependentUpon>OWBTAPictureBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ta.png" />
+    <None Include="Resources\Arrow.png" />
+    <None Include="Resources\Line.png" />
+    <None Include="Resources\Mask.png" />
+    <None Include="Resources\Point.png" />
+    <None Include="Resources\Polygon.png" />
+    <Content Include="ta.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OWB.SDK\OWB.SDK.csproj">
+      <Project>{c1fcf15c-4320-422a-8ef0-ae488c9c5582}</Project>
+      <Name>OWB.SDK</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

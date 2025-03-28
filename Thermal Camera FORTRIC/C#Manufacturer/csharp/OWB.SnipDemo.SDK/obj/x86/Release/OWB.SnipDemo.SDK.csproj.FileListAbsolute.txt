@@ -1,0 +1,12 @@
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\bin\Newtonsoft.Json.dll
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\bin\IRtekFileSDK.dll
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\bin\libvt.dll
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\bin\Radiation.dll
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\bin\restc.dll
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\bin\StreamSDK.dll
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\bin\IRtekFileSDK.lib
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\bin\OWB.SnipDemo.SDK.dll
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SnipDemo.SDK\obj\x86\Release\OWB.SnipDemo.SDK.csproj.AssemblyReference.cache
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SnipDemo.SDK\obj\x86\Release\OWB.SnipDemo.SDK.csproj.CoreCompileInputs.cache
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SnipDemo.SDK\obj\x86\Release\OWB.SnipDemo.SDK.csproj.CopyComplete
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SnipDemo.SDK\obj\x86\Release\OWB.SnipDemo.SDK.dll

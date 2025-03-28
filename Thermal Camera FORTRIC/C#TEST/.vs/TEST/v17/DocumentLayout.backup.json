@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|solutionrelative:userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|c:\\users\\chuwu\\desktop\\issplab\\thermal camera fortric\\c#test\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|solutionrelative:settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|c:\\users\\chuwu\\desktop\\issplab\\thermal camera fortric\\c#test\\settingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|solutionrelative:settingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1BAD6DE-F1D2-473E-ADE5-B5B591152537}|TEST.csproj|solutionrelative:settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingForm.cs",
+              "DocumentMoniker": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\SettingForm.cs",
+              "RelativeDocumentMoniker": "SettingForm.cs",
+              "ToolTip": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\SettingForm.cs",
+              "RelativeToolTip": "SettingForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAxwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:51:44.226Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\SettingForm.Designer.cs",
+              "RelativeDocumentMoniker": "SettingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\SettingForm.Designer.cs",
+              "RelativeToolTip": "SettingForm.Designer.cs",
+              "ViewState": "AgIAABICAAAAAAAAAIAwwCICAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:19:05.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:40:47.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\MainForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "MainForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:39:00.464Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:27:13.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\UserForm.cs",
+              "RelativeDocumentMoniker": "UserForm.cs",
+              "ToolTip": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\UserForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "UserForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:26:44.461Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\SettingForm.cs",
+              "RelativeDocumentMoniker": "SettingForm.cs",
+              "ToolTip": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\SettingForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "SettingForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:49:33.523Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\chuwu\\Desktop\\ISSPLAB\\Thermal Camera FORTRIC\\C#TEST\\LoginForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "LoginForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:11:19.78Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

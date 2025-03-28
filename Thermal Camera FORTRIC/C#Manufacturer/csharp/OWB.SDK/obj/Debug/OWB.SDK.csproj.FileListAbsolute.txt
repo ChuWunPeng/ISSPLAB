@@ -1,0 +1,10 @@
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#Manufacturer\csharp\OWB.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#Manufacturer\csharp\OWB.SDK\bin\Debug\restc.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#Manufacturer\csharp\OWB.SDK\bin\Debug\StreamSDK.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#Manufacturer\csharp\OWB.SDK\bin\Debug\OWB.SDK.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#Manufacturer\csharp\OWB.SDK\bin\Debug\OWB.SDK.pdb
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#Manufacturer\csharp\OWB.SDK\obj\Debug\OWB.SDK.csproj.AssemblyReference.cache
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#Manufacturer\csharp\OWB.SDK\obj\Debug\OWB.SDK.csproj.CoreCompileInputs.cache
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#Manufacturer\csharp\OWB.SDK\obj\Debug\OWB.SDK.csproj.Up2Date
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#Manufacturer\csharp\OWB.SDK\obj\Debug\OWB.SDK.dll
+C:\Users\chuwu\Desktop\ISSPLAB\Thermal Camera FORTRIC\C#Manufacturer\csharp\OWB.SDK\obj\Debug\OWB.SDK.pdb

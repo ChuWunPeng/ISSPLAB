@@ -1,0 +1,10 @@
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SDK\bin\x86\Release\Newtonsoft.Json.dll
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SDK\bin\x86\Release\restc.dll
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SDK\bin\x86\Release\StreamSDK.dll
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SDK\bin\x86\Release\OWB.SDK.dll
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SDK\bin\x86\Release\OWB.SDK.pdb
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SDK\obj\x86\Release\OWB.SDK.csproj.AssemblyReference.cache
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SDK\obj\x86\Release\OWB.SDK.csproj.CoreCompileInputs.cache
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SDK\obj\x86\Release\OWB.SDK.csproj.CopyComplete
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SDK\obj\x86\Release\OWB.SDK.dll
+C:\TeamCity\buildAgent\work\fc174e2a2a7ea68a\OWB.MVIRs\csharp\OWB.SDK\obj\x86\Release\OWB.SDK.pdb
